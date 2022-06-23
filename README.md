@@ -1,13 +1,16 @@
 # Quick Film Search made with React
+
 Use the search bar to pull up movies related to the search criteria.
 
-**Link to project:** 
+**Link to project:** https://m-s-davis.github.io/filmSearch/
+
+![alt tag](src\img\filmSearchImage.JPG)
 
 ## How It's Made:
 
 **Tech used:** React, HTML, CSS, JavaScript
 
-A react focused demo featuring a movie search that will populate the page with components related to the search. The goal was to 
+A react focused demo featuring a movie search that will populate the page with components related to the search. The goal was to
 
 ## Optimizations
 
