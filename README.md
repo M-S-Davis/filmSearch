@@ -4,7 +4,7 @@ Use the search bar to pull up movies related to the search criteria.
 
 **Link to project:** https://m-s-davis.github.io/filmSearch/
 
-![alt tag](src\img\filmSearchImage.JPG)
+![alt tag](https://github.com/M-S-Davis/filmSearch/blob/main/src/img/filmSearchImage.JPG)
 
 ## How It's Made:
 
